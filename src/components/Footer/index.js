@@ -34,10 +34,10 @@ const Footer = () => {
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href='//www.twitter.com/briandesignz'
+                href='/'
                 target='_blank'
                 aria-label='Twitter'
-                rel='noopener noreferrer'
+              
               >
                 <FaTwitter />
               </SocialIconLink>
